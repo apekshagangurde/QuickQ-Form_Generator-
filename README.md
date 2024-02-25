@@ -39,7 +39,7 @@ QuickQ offers a user-friendly interface for creating professional-looking forms 
 ## Use Case of QuickQ
 
 
-![use case](https://github.com/apekshagangurde/QuickQ-form_generator-/assets/100061307/1bc445d4-a30c-47ea-8794-a6a35ad0cb04)
+![use case](https://github.com/apekshagangurde/QuickQ-form_generator-/blob/master/image/use%20case%20main.jpg)
 
 ## Demo Video
 
