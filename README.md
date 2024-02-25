@@ -56,7 +56,6 @@ QuickQ offers a user-friendly interface for creating professional-looking forms 
 
 QuickQ serves as a practical tool for form creation and data management, representing a valuable learning experience for our team. Through this project, we've enhanced our skills in frontend and backend development, API testing, database management, and collaboration.
 
-Thank you for your attention. We're eager to answer any questions you may have.
 
 ---
 
