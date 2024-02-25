@@ -43,6 +43,8 @@ QuickQ offers a user-friendly interface for creating professional-looking forms 
 
 ## Demo Video
 
+[Link to Video](https://raw.githubusercontent.com/apekshagangurde/QuickQ-form_generator-/master/image/form%20generator%20demo.mp4)
+
 
 
 ## Technical Use Case Diagram
